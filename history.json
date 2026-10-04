@@ -20,5 +20,16 @@
   "text": "Alterado o nome da cafeteria de Aurora para Cecília em todo o site.",
   "at": "2026-10-04T19:15:56.388Z",
   "commit": "96724e534019d17f81705e7dcb8974bf31745d31"
+ },
+ {
+  "role": "user",
+  "text": "Coloque o preço do café por 3,50",
+  "at": "2026-10-04T19:48:19.691Z"
+ },
+ {
+  "role": "assistant",
+  "text": "Atualizado o preço do Espresso Simples para R$ 3,50.",
+  "at": "2026-10-04T19:48:23.805Z",
+  "commit": "e0f3b76f3125163b50aa51ab28b1748184ba0c22"
  }
 ]
