@@ -86,7 +86,8 @@ ul {
   transition: var(--transition);
 }
 
-.nav a:hover {
+.nav a:hover,
+.nav a.active {
   color: var(--accent);
 }
 
@@ -131,7 +132,7 @@ ul {
   font-family: var(--font-heading);
   font-size: 3rem;
   font-weight: 700;
-  color: #F1C40F;
+  color: #2C221E;
   margin-bottom: 1.25rem;
   line-height: 1.2;
 }
@@ -197,6 +198,7 @@ ul {
   padding: 2.5rem 2rem;
   text-align: center;
   transition: var(--transition);
+  display: block;
 }
 
 .menu-card:hover {
