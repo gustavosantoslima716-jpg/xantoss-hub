@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-  console.log('Aurora Café carregado com sucesso.');
+  console.log('Cecília Café carregado com sucesso.');
 });
