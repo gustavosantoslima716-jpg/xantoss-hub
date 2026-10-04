@@ -104,7 +104,7 @@ ul {
 
 /* Hero Section */
 .hero {
-  padding: 12rem 0 8rem;
+  padding: 14rem 0 10rem;
   background: linear-gradient(135deg, var(--cream-light) 0%, var(--cream-dark) 100%);
   text-align: center;
 }
@@ -164,7 +164,7 @@ ul {
 
 /* Menu Section */
 .menu-section {
-  padding: 6rem 0;
+  padding: 8rem 0;
   background-color: var(--white);
 }
 
@@ -232,7 +232,7 @@ ul {
 
 /* Info Section */
 .info-section {
-  padding: 5rem 0;
+  padding: 7rem 0;
   background-color: var(--cream-dark);
 }
 
@@ -259,14 +259,14 @@ ul {
   background-color: #1a1310;
   color: var(--cream-light);
   text-align: center;
-  padding: 2rem 0;
+  padding: 3rem 0;
   font-size: 0.875rem;
 }
 
 /* Responsive */
 @media (max-width: 768px) {
   .hero {
-    padding: 10rem 0 5rem;
+    padding: 11rem 0 6rem;
   }
 
   .hero h1 {
