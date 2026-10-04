@@ -131,7 +131,7 @@ ul {
   font-family: var(--font-heading);
   font-size: 3rem;
   font-weight: 700;
-  color: var(--brown-dark);
+  color: #F1C40F;
   margin-bottom: 1.25rem;
   line-height: 1.2;
 }
